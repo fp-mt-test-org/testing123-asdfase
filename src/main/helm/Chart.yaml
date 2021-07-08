@@ -1,0 +1,6 @@
+apiVersion: v2
+name: testing123-asdfase
+description: Chart for creating testing123-asdfase and ingress mapping our Flexport EKS clusters
+
+type: application
+version: 0.1.0

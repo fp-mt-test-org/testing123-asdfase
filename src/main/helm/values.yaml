@@ -1,0 +1,5 @@
+config:
+  host: testing123-asdfase.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  image:
+    name: artifactory.flexport.io/testing123-asdfase-docker-dev-local/testing123-asdfase
+    tag: 0.0.1-SNAPSHOT
